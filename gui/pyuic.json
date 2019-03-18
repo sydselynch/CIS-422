@@ -1,0 +1,13 @@
+{
+    "files": [
+      [
+        "*.ui",
+        "C:/Users/Syd/Desktop/CIS 422/ICSPScheduler/code/gui"
+      ]
+    ],
+    "hooks": [],
+    "pyrcc": "pyrcc5",
+    "pyrcc_options": "",
+    "pyuic": "pyuic5",
+    "pyuic_options": "--from-import"
+}
